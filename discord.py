@@ -3,9 +3,9 @@ from discord.ext import commands, tasks
 import random
 
 #   CONFIG
-token = ""  #   Search up how to get discord token.
+token = "NzE0NDkzNzUyOTk1MjE3NTI5.G9Rzej.PkyqYjNOmyvLQ3AKSoHMczoIoX6yvKvgv8GDMo"  #   Search up how to get discord token.
 prefix = "~"
-target_channel = 00000000000000 #   Channel to run commands in.
+target_channel = 994367683715924039 
 target_bot = 668075833780469772
 target_bot_prefix = "<@668075833780469772> "
 
